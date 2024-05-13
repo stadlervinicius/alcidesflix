@@ -1,6 +1,6 @@
 div {
-    border: 3px solid #660000;
-    background-color: #7e000a;
+    border: 3px solid #ffd000;
+    background-color: #f1f51e66;
     padding: 0 5px;
 }
 
@@ -11,7 +11,7 @@ div {
 .exemplo-fixed {
     position: fixed;
     bottom: 20px;
-    right: 25px;
+    right: 20px;
 }
 
 .exemplo-relative {
@@ -32,6 +32,6 @@ div {
 
 .exemplo-sticky {
     position: sticky;
-    bottom: 5;
-    top: 10;
+    bottom: 0;
+    top: 0;
 }
